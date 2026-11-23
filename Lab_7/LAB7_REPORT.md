@@ -46,7 +46,7 @@ I added type checks and strict input-format validation, handled malformed values
 
 ## 6. Evidence
 
-Add four genuine execution screenshots to the evidence folder and final PDF:
+Add four genuine execution screenshots to the screenshot folder and final PDF:
 
 - SS1 — original buggy script execution.
 - SS2 — failing Hypothesis tests against the original buggy script.

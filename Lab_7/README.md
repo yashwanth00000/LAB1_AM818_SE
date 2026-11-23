@@ -13,4 +13,4 @@ python solar_panel_estimate_parser.py
 python -m pytest -q test_solar_panel_estimate_parser.py
 ```
 
-Add four genuine terminal screenshots to `evidence/`: `SS1_buggy_run.png`, `SS2_failing_tests.png`, `SS3_fixed_run.png`, and `SS4_passing_tests.png`. Capture SS1 and SS2 against the original buggy source before replacing it. No screenshots are fabricated.
+Add four genuine terminal screenshots to `screenshot/`: `SS1_buggy_run.png`, `SS2_failing_tests.png`, `SS3_fixed_run.png`, and `SS4_passing_tests.png`. Capture SS1 and SS2 against the original buggy source before replacing it. No screenshots are fabricated.
